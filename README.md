@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>IA Entrevistador - Bootcamp CAIXA - Inteligência Artificial na Prática</h1>
+    <h1>Mapa de Habilidades - Bootcamp CAIXA - Inteligência Artificial na Prática</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
